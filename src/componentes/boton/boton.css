@@ -1,0 +1,11 @@
+.boton{
+    background-color:#6278f7;
+    border-radius: 10px;
+    font-weight: 10px;
+    font-family: 'monserrat'-'sans-serif';
+    padding: 18px 20px;
+    border: none;
+    color: #ffffff;
+    margin: 28px 0;
+    cursor: pointer;
+}
